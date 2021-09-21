@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><!-- generator="podbean/5.5" -->
+<rss version="2.0"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+     xmlns:spotify="http://www.spotify.com/ns/rss"
+    xmlns:media="http://search.yahoo.com/mrss/">
+
+<channel>
+    <title>The chianwang Podcast 3</title>
+    <atom:link href="https://feed.podbean.com/mw10104587j/feed.xml" rel="self" type="application/rss+xml"/>
+    <link>https://mw10104587j.podbean.com</link>
+    <description>New podcast weblog, please set descriptions</description>
+    <pubDate>Fri, 27 Aug 2021 19:00:33 -0300</pubDate>
+    <generator>https://podbean.com/?v=5.5</generator>
+    <language>en</language>
+        <copyright></copyright>
+    <category>Arts</category>
+    <ttl>1440</ttl>
+    <itunes:type>episodic</itunes:type>
+    <itunes:subtitle></itunes:subtitle>
+          <itunes:summary></itunes:summary>
+        <itunes:author>mw10104587j</itunes:author>
+<itunes:category text="Arts" />
+    <itunes:owner>
+        <itunes:name>mw10104587j</itunes:name>
+        <itunes:email>chianwang@fb.com</itunes:email>
+    </itunes:owner>
+	<itunes:block>No</itunes:block>
+	<itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://pbcdn1.podbean.com/imglogo/image-logo/12649286/dst5nh-9108c944-b0a3-416a-af57-563fe17b2d92_1__iuxi4b.png" />
+    <image>
+        <url>https://pbcdn1.podbean.com/imglogo/image-logo/12649286/dst5nh-9108c944-b0a3-416a-af57-563fe17b2d92_1__iuxi4b.png</url>
+        <title>The mw10104587s Podcast</title>
+        <link>https://mw10104587j.podbean.com</link>
+        <width>144</width>
+        <height>144</height>
+    </image>
+    <item>
+        <title>Good first ep</title>
+        <itunes:title>Good first ep</itunes:title>
+        <link>https://mw10104587j.podbean.com/e/good-first-ep/</link>
+        <comments>https://mw10104587j.podbean.com/e/good-first-ep/#comments</comments>
+        <pubDate>Fri, 27 Aug 2021 19:00:33 -0300</pubDate>
+        <guid isPermaLink="false">mw10104587j.podbean.com/ea39a0f7-f411-3eb2-972f-9ccacdbfa8da</guid>
+                      <description><![CDATA[<p>as title haha. Good Job</p>
+]]></description>
+                        <content:encoded><![CDATA[<p>as title haha. Good Job</p>
+]]></content:encoded>
+
+        <enclosure url="https://mcdn.podbean.com/mf/web/2afcxw/file_example_MP3_700KB.mp3" length="764176" type="audio/mpeg"/>
+        <itunes:subtitle>as title haha. Good Job</itunes:subtitle>
+        <itunes:summary><![CDATA[<p>as title haha. Good Job</p>
+]]></itunes:summary>
+        <itunes:author>mw10104587j</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>00:27</itunes:duration>
+                <itunes:episode>1</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+            </item>
+</channel>
+</rss>
